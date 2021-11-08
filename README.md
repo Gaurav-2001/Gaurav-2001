@@ -18,6 +18,9 @@
 </a>
 <br> <br>
 
+## 👨‍🎓 About Me
+#### Hello, I'm Gaurav Pagare currently pursuing my Bachelors in Information Technology. I Like to learn and explore various new and popular tools and technologies.
+
 ## 🚀 Techinical Skills
 
 ### Languages⚡
