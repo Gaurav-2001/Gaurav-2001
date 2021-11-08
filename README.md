@@ -1,5 +1,12 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Gaurav](https://www.linkedin.com/in/pagare-gaurav/) !!
 
+<p align="center">
+  <img src="focus-animation.gif" width="414" height="320" />
+</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2336BCF7&size=26&width=403&height=54&lines=Connect+with+me+%F0%9F%94%97)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/pagare-gaurav/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
